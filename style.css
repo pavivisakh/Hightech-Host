@@ -1,0 +1,28 @@
+
+h1{
+    background-color: brown;
+    text-align: center;
+    color: green;
+
+
+}
+p{
+    background-color:burlywood;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+   
+}
+#r1{
+    background-color: cyan;
+}
+.m3{
+    color: cornflowerblue;
+
+}
